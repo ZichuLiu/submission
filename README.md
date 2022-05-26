@@ -12,13 +12,9 @@ pip install -r requirements.txt
 
 ## Training
 
-To train the model(s) in the paper on CIFAR-10 dataset, you should download the Precalculated Statistics for FID calculation from the following link:
+To train the model(s) in the paper on CIFAR-10 dataset, you should download the Precalculated Statistics [fid_stats_cifar10_train.npz](http://bioinf.jku.at/research/ttur/ttur_stats/fid_stats_cifar10_train.npz) to `./SNGAN`.
 
-http://bioinf.jku.at/research/ttur/ttur_stats/fid_stats_cifar10_train.npz
-
-to `./SNGAN`
-
-after downloading the precalcuated stats, run this command:
+After downloading the precalcuated stats, run this command:
 
 ```train
 python main.py
