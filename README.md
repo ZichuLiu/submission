@@ -16,7 +16,7 @@ To train the model(s) in the paper on CIFAR-10 dataset, you should download the 
 
 http://bioinf.jku.at/research/ttur/ttur_stats/fid_stats_cifar10_train.npz
 
-to './SNGAN'
+to `./SNGAN`
 
 after downloading the precalcuated stats, run this command:
 
