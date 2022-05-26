@@ -5,16 +5,11 @@ This repository is the official implementation of [Recursive Reasoning in Minima
 ## Requirements
 
 Requirements:
-
-python3
-
-pytorch
-
-torchvision
-
-numpy
-
-scipy
+- python3
+- pytorch
+- torchvision
+- numpy
+- scipy
 
 All codes are developed using Python 3.9, pytorch 1.9.0 and CUDA Version: 11.4 
 
